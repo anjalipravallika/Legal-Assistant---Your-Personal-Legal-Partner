@@ -11,7 +11,7 @@ three features :
  respondant, it gives percentage of
  probability of winning of case of each
  party.
- 2. Case Summarisation: When a big case file
+ 2. Case Summarization: When a big case file
  is provided it summarises into short text
  including important legal terms and case
  facts.
